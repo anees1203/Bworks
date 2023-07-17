@@ -1,5 +1,4 @@
 //Todo: check the update @DemonXslayer47 @KNagaPrasad @vakhil-98 
-
 import { Component } from '@angular/core';
 import { AgGridAngular } from 'ag-grid-angular';
 import { CellClickedEvent, ColDef, GridReadyEvent } from 'ag-grid-community';
